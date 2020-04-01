@@ -1,9 +1,21 @@
 # Entfernt-Vereint
 
-tkinter-based GUI to allow easier access to jitsi for people in retirement homes #Corona
+tkinter-basierte Benutzeroberfläche, um in Altersheimen die Möglichkeit zu schaffen, jitsi-Videokonferenzen zu veranstalten.
 
-## Authors
+## Anleitung
+
+folgt
+
+
+
+## Autoren
 
 * Reinhard Nickels
 * Marian Scheja
 * Dr. Uwe Ziegenhagen
+
+
+
+## English Summary
+
+tkinter-based GUI to allow people in retirement homes to connect with their loved ones. 
