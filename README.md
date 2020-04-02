@@ -20,7 +20,7 @@ Auf der Basis der Linux Distribution Xubuntu wird per Autostart ein Python Progr
 * Fernwartung: Anydesk
 * Jitsi-Launcher: Entfernt-Vereint/menu.py 
 ## Anleitung zum Aufsetzen eines Laptops
-folgt
+siehe Wiki
 ## Autoren
 
 * Reinhard Nickels
