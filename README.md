@@ -11,17 +11,16 @@ Die Lösung soll auch auf 6-10 Jahre alten Laptops noch zufriedenstellend laufen
 
 Auf der Basis der Linux Distribution Xubuntu wird per Autostart ein Python Programm geladen. Aus einer vorgegebenen Auswahl von Servern und Konferenznamen wird eine Videokonferenz zu einem Jitsi Server aufgebaut. Dem Gesprächs- / Videopartner muss lediglich der Weblink übermittelt werden. Der Gesprächspartner kann zwischen Browser und Jitsi App auswählen. 
 
-## Anleitung
-### Voraussetzungen
+## Voraussetzungen 
 * Laptop mit Webcam (bevorzugt eingebaut)
 * WLAN oder Kabel-LAN in der Einrichtung (Internetzugriff)
-### Software
+## Software
 * OS: Xubuntu32bit
 * Browser: Chromium Webbrowser
 * Fernwartung: Anydesk
 * Jitsi-Launcher: Entfernt-Vereint/menu.py 
-### Anleitung zum Aufsetzen eines Laptops
-
+## Anleitung zum Aufsetzen eines Laptops
+folgt
 ## Autoren
 
 * Reinhard Nickels
