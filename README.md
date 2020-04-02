@@ -13,13 +13,13 @@ Auf der Basis der Linux Distribution Xubuntu wird per Autostart ein Python Progr
 
 ## Anleitung
 ### Voraussetzungen
-Laptop mit Webcam (bevorzugt eingebaut)
-WLAN oder Kabel-LAN in der Einrichtung (Internetzugriff)
+* Laptop mit Webcam (bevorzugt eingebaut)
+* WLAN oder Kabel-LAN in der Einrichtung (Internetzugriff)
 ### Software
-OS: Xubuntu32bit
-Browser: Chromium Webbrowser
-Fernwartung: Anydesk
-Jitsi-Launcher: Entfernt-Vereint/menu.py 
+* OS: Xubuntu32bit
+* Browser: Chromium Webbrowser
+* Fernwartung: Anydesk
+* Jitsi-Launcher: Entfernt-Vereint/menu.py 
 ### Anleitung zum Aufsetzen eines Laptops
 
 ## Autoren
