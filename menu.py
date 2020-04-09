@@ -64,7 +64,7 @@ if os.path.isfile('namen.txt'):
 else:
     print ("Namensdatei existiert nicht, wird angelegt")
     with open('namen.txt', 'wt') as names:
-        names.write('[Standort]\nStandort=Theo Burauen\n')
+        names.write('[Standort]\nStandort=Mein Standort\n')
         names.write('[Namen]\n')
         names.write('Name1=Max Frisch\n')
         names.write('Name2=Heinrich Heine\n')        
