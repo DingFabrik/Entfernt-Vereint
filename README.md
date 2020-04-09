@@ -19,7 +19,7 @@ Auf der Basis der Linux Distribution Xubuntu wird per Autostart ein Python Progr
 * Browser: Chromium Webbrowser
 * Fernwartung: Anydesk
 * Jitsi-Launcher: Entfernt-Vereint/menu.py 
-## Anleitung zum Aufsetzen eines Laptops
+## Anleitung zum Aufsetzen eines Laptops und Bedienung
 siehe Wiki
 ## Autoren
 
