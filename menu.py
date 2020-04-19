@@ -11,7 +11,10 @@ import configparser
 from urllib.request import urlopen 
 from urllib.error import HTTPError, URLError
 import os.path
+import platform
 
+
+print(platform.system())
 
 def internet_on():
     """
@@ -35,8 +38,11 @@ def openweb():
     global url
     url = currentServer.get() + '/' + standort + '-' + currentName.get().replace(' ','').lower()
     print(url)
-    webbrowser.open(url,new=1)
-    
+    # https://stackoverflow.com/questions/22445217/python-webbrowser-open-to-open-chrome-browser
+    webbrowser.get(using='/usr/bin/chromium-browser').open(url,new=1)
+    #webbrowser.open(url,new=1)    
+
+
 
 # some global variables    
 url = ""
