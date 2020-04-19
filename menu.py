@@ -39,7 +39,7 @@ def openweb():
     url = currentServer.get() + '/' + standort + '-' + currentName.get().replace(' ','').lower()
     print(url)
     # https://stackoverflow.com/questions/22445217/python-webbrowser-open-to-open-chrome-browser
-    webbrowser.get(using='/usr/bin/chromium-browser').open(url,new=1)
+    webbrowser.get('/usr/bin/chromium-browser').open(url,new=1)
     #webbrowser.open(url,new=1)    
 
 
