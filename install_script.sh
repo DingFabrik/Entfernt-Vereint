@@ -62,8 +62,8 @@ xfconf-query --channel xfce4-desktop --property /backdrop/screen0/monitor0/works
 # set energy options - shutdown on power button press
 xfconf-query -c xfce4-power-manager -p /xfce4-power-manager/power-button-action -s 4
 # set energy options - when lid close
-xfconf-query -c xfce4-power-manager -p /xfce4-power-manager/lid-action-on-ac -s 0
-xfconf-query -c xfce4-power-manager -p /xfce4-power-manager/lid-action-on-battery -s 0
+xfconf-query -c xfce4-power-manager -p /xfce4-power-manager/lid-action-on-battery -n -t int -s 0
+xfconf-query -c xfce4-power-manager -p /xfce4-power-manager/lid-action-on-ac -n -t int -s 0
 # set energy options - no screen lock
 xfconf-query -c xfce4-power-manager -p /xfce4-power-manager/lock-screen-suspend-hibernate -s false
 # starte app konfigurieren
